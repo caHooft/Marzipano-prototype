@@ -12,7 +12,7 @@
 
 <div id="pano"></div>
 
-<script src="../../build/marzipano.js" ></script>
+<script src="marzipano.js" ></script>
 
 <script src="index.js"></script>
 
