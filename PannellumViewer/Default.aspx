@@ -9,10 +9,9 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<script src="marzipano.js" ></script>
 
 <div id="pano"></div>
-
-<script src="marzipano.js" ></script>
 
 <script src="index.js"></script>
 
